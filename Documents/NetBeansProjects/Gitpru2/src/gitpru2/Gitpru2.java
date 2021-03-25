@@ -15,7 +15,7 @@ public class Gitpru2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         String exampleString = "This is just a sample string2";
+         String exampleString = "This is just a sample string3";
 
         int stringLength = exampleString.length();
 
